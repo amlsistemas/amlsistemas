@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alejandro Martinez Lopera</h1>
 <h3 align="center">Technologist in Software Analysis and Development (ADSO) & IT Analyst with 20+ years of experience in Information Technology.</h3>
 
-- 🔭 Specialized in backend development, intelligent process automation, and infrastructure architecture.
+- 🚀 Specialized in backend development, intelligent process automation, and infrastructure architecture.
 
-- 🔭 I’m currently working on **Various web software projects.**
+- 💡 Project Leader of SIADA+ v5.7 PRO, a smart academic scheduling platform optimized through allocation algorithms and VBA/SQL engines.
 
-- 🌱 I’m currently learning **Technologist in Software Analysis and Development (The Software Analysis and Development Technology program is a study program designed to train professionals with the knowledge and skills necessary for the design, development and maintenance of computer systems).**
+- 🛠️ Technical Stack: Python, PHP, MySQL, JavaScript, VBA, Linux, and REST APIs.
 
-- 📫 How to reach me **amlsistemas@hotmail.com**
+- 📫 How to reach me: amlsistemas@gmail.com (Primary) | amlsistemas@hotmail.com (Alternative)
 
 
 <h3 align="left">Languages and Tools:</h3>
