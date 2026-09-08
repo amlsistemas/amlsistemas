@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Martinez Lopera</h1>
-<h3 align="center">Technology student in Software Analysis and Development from Medellín-Colombia.</h3>
+<h3 align="center">Technologist in Software Analysis and Development (ADSO) & IT Analyst with 20+ years of experience in Information Technology.</h3>
+
+- 🔭 Specialized in backend development, intelligent process automation, and infrastructure architecture.
 
 - 🔭 I’m currently working on **Various web software projects.**
 
